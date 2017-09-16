@@ -22,3 +22,7 @@ Top 3 Project Choices
 2nd: CDS Capstone, Breast Cancer Screening
 
 3rd: CDS Capstone, Interpretable Model for Breast Cancer Detection
+
+Notes
+
+If solo-team is not preferred, I would like to team up with Jingyi Su (js5991) and Nan Wu and form a team of 3ppl. If possible, we would like to merge the 3 single-person projects in the project choices section and take on this merged project. Thanks!
